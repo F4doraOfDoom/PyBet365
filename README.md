@@ -8,7 +8,7 @@ It also has built-in proxy support, in order to avoid banning.
 PyBet365 uses free proxies from the internet, so please use at your own discretion. 
 
 ## Demo?
-[![demo timeeee](https://imgur.com/a/rlNRf8S "demo timeeee")](https://imgur.com/a/rlNRf8S "demo timeeee")
+[![Demooo](https://gfycat.com/weeklywelltododorado.gif "Demooo")](https://gfycat.com/weeklywelltododorado.gif "Demooo")
 
 ## Great, how do I use it?
 ### Dependencies
