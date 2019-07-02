@@ -7,7 +7,11 @@ and display real-time betting match data.
 It also has built-in proxy support, in order to avoid banning.
 PyBet365 uses free proxies from the internet, so please use at your own discretion. 
 
+## Demo?
+[![demo timeeee](https://imgur.com/a/rlNRf8S "demo timeeee")](https://imgur.com/a/rlNRf8S "demo timeeee")
+
 ## Great, how do I use it?
+### Dependencies
 Make sure you have the right dependencies installed.
 This project uses:
 ```
@@ -15,7 +19,6 @@ beautifulsoup4 = 4.7.1
 selenium = 3.141.0
 requests = 2.22.0 		#only if you use proxies
 ```
-### Dependencies
 
 I just downloaded the newsest version. Older versions of Selenium and requests would probably work as well.
 
@@ -63,3 +66,12 @@ To change this, use:
 ```bash
 -r/--refresh <unit of time (seconds)>
 ```
+
+## Contributing
+
+Currently PyBet365 doesn't have many features, but I'm open to suggestions and improvements. If you want  this script to have another feature, be free to contact me!
+
+## Licencing
+
+This repository uses the WTFPL license.
+You can do whatever the fuck you want, but I would appreciate me if you pointed people in my direction.
